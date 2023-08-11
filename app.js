@@ -1,4 +1,4 @@
-const endDate = "29 July 2023 4:10 PM"
+const endDate = prompt("Enter Date&Time Format-29 July 2023 4:10 PM")//"29 July 2023 4:10 PM"
 
 
 document.getElementById("end-date").innerText = endDate
